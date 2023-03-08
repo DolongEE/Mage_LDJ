@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/2. Scripts/Map/ClearMap.cs.meta
+guid: 5683813518db32d429619091602cb9e2
+========
+guid: b3d8a76432a0fca47b5a655bd52e01fe
+>>>>>>>> origin/HJB:Assets/2. Scripts/Enemy/AttackEffect.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

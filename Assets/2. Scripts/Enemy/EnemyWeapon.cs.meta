@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/2. Scripts/Map/EnemyWeapon.cs.meta
+guid: ea0c76227c505a94a968b76bf33508fc
+========
+guid: d5215bff478170a41b70d96abd3212d2
+>>>>>>>> origin/HJB:Assets/2. Scripts/Enemy/EnemySnow.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

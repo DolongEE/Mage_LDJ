@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/2. Scripts/Map/EnemyWater.cs.meta
+guid: 6a63f1a9c22740948adfa0a349887aa3
+========
+guid: ec73942b68e50d54092bfd9ed405c144
+>>>>>>>> origin/HJB:Assets/2. Scripts/Enemy/BossControllT.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

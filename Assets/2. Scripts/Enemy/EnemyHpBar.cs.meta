@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/2. Scripts/Enemy/EnemyHpBar.cs.meta
+guid: dd6d15a01ee0cec49959ff5687cd8c91
+========
+guid: 78d49930229c5874881bfcf8d7bbb5f6
+>>>>>>>> origin/LDJ:Assets/2. Scripts/InstantiateItem.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/2. Scripts/Enemy/Billboard.cs.meta
+guid: 57dc2c6afabd6bf4eac9fdad343559c4
+========
+guid: dd6d15a01ee0cec49959ff5687cd8c91
+>>>>>>>> origin/LDJ:Assets/2. Scripts/Enemy/EnemyHpBar.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
